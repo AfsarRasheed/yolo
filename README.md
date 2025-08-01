@@ -1,5 +1,14 @@
 # 🍬 Real-Time Candy Detection With Calorie Tracking and Automated Checkout 
 
+## Train YOLO Models
+
+**Option 1. With Google Colab**
+
+Click below to acces a Colab notebook for training YOLO models. It makes training a custom YOLO model as easy as uploading an image dataset and running a few blocks of code.
+
+<a href="https://colab.research.google.com/drive/1U_NUt5hiEhyv2O_4YI1VK510fSwuRCr3?usp=sharing " target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 ## 🏷️ Introduction
 
 This project presents a **smart object detection pipeline** powered by the **YOLOv8** deep learning model, designed to automatically **classify and detect 11 types of candies** in both images and videos. The main goal is to create a **virtual "smart cart"** that not only recognizes each candy but also keeps track of all candies detected, dynamically computing the **total price** and **caloric content** for a seamless and interactive retail experience.
