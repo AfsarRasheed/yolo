@@ -71,4 +71,4 @@ Imagine using a camera-enabled checkout system:
 
 
 
-> 💡 Get started by following each code cell in this notebook and enjoy building your own smart cart!
+
